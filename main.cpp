@@ -1,4 +1,4 @@
-#include "win_scanner.hpp"
+#include "generic_scanner.hpp"
 
 int main() {
     try {
